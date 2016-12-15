@@ -1,8 +1,8 @@
 # Site settings
 title: Lorem Ipsum - Web Developer
 description: "A blog about lorem ipsum ..."
-baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
-url: "https:kammoh.githu.io"
+baseurl: ""
+url: "http//:kammoh.github.io"
 # User settings
 username: kammoh
 user_title: Kamyar Mohajerani
@@ -41,6 +41,6 @@ links:
 # projects in header index
 # projects:
 #  - name: asciilang
-#    url: https://github.com/kammoh/asciilang
+#    url: https://github.com/kammoh/proj
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
