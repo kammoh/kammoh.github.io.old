@@ -1,15 +1,14 @@
 # Site settings
 title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
 baseurl: ""
-url: "http//:kammoh.github.io"
+url: ""
 # User settings
 username: kammoh
 user_title: Kamyar Mohajerani
 email: kamyar@ieee.org
 github_username:  kammoh
 gplus_username:  kammoh
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines unitl next
     Welcome to my personal webspace!
     Here, I will be sharing information about my current projects and interests, as well as some other random stuff!
 
